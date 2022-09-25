@@ -1,2 +1,1 @@
-Fichero de prueba
-MODIFICADO
+Texto de prueba
